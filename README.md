@@ -1,1 +1,2 @@
-# milosctokurwa-loading
+# Loading
+Byl uzywany na bojowkarp.pl/klamkagg.pl
